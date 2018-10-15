@@ -1,0 +1,6 @@
+C:\sicip\tests\cignium\SearchResultCount\SearchResultCount\bin\Debug\SearchResultCount.exe.config
+C:\sicip\tests\cignium\SearchResultCount\SearchResultCount\bin\Debug\SearchResultCount.exe
+C:\sicip\tests\cignium\SearchResultCount\SearchResultCount\bin\Debug\SearchResultCount.pdb
+C:\sicip\tests\cignium\SearchResultCount\SearchResultCount\obj\Debug\SearchResultCount.csprojResolveAssemblyReference.cache
+C:\sicip\tests\cignium\SearchResultCount\SearchResultCount\obj\Debug\SearchResultCount.exe
+C:\sicip\tests\cignium\SearchResultCount\SearchResultCount\obj\Debug\SearchResultCount.pdb
